@@ -4,7 +4,6 @@
     color: black;
 }
 
-/* Direction class for non-spoken directions */
 .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
@@ -16,10 +15,29 @@
     color: red; 
 }
 .HEDDA{
-    color: blue(50, 150, 200);
-    font-size: 20px;
+    color: blue;
+    font-size: 16px;
 }
+
 .MISSTESMAN{
-    color: blueviolet(30, 100, 150);
-    font-size: 15px;
+    color: red;
+    font-size: 16px;
 }
+.BRACK{
+    color: green;
+    font-size: 16px;
+}
+table{
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 16px;
+        margin: auto;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
