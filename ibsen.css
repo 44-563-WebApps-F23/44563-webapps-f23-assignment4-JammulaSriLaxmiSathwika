@@ -1,0 +1,25 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+/* Direction class for non-spoken directions */
+.direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: black;
+    background-color: lightpink;
+}
+.direction:hover {
+    background-color: beige; 
+    color: red; 
+}
+.HEDDA{
+    color: blue(50, 150, 200);
+    font-size: 20px;
+}
+.MISSTESMAN{
+    color: blueviolet(30, 100, 150);
+    font-size: 15px;
+}
