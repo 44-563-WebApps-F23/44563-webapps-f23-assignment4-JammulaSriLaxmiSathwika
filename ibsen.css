@@ -4,6 +4,13 @@
     color: black;
 }
 
+.MISS:hover{
+    color: rgb(45, 142, 193);
+    font-size: 20px;
+    text-shadow: 5px 5px 3px #FF0000;
+    border-style: dotted;
+}
+
 .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
